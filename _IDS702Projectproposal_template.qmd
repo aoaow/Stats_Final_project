@@ -21,16 +21,16 @@ This dataset includes details on police killings in the United States, with vari
 
 - Outcome variable: race ethnicity (Nominal) – categorizes the racial/ethnic group of the deceased.
 - Independent Variables:
-    - __comp_income__: A measure of relative income (household income divided by county income) which indicates economic status.
-    - __pov__: Poverty level in the area, providing additional context on socio-economic conditions.
+    - _compincome_ : A measure of relative income (household income divided by county income) which indicates economic status.
+    - _pov_ : Poverty level in the area, providing additional context on socio-economic conditions.
 
 
 **Research question 2: Does the likelihood of an individual being armed in a police-related incident vary based on age and unemployment rate in the area?**
 
 - Outcome variable: armed (Binary) – indicates whether the deceased was armed at the time of the incident.
 - Independent Variables:
-    - __age__: Age of the deceased (continuous variable).
-    - __urate__: Unemployment rate in the area, which could represent socio-economic stress.
+    - _age_: Age of the deceased (continuous variable).
+    - _urate_: Unemployment rate in the area, which could represent socio-economic stress.
 - Interaction Term: An interaction between age and urate to see if age and local unemployment influence the likelihood of individuals being armed.
 
 
