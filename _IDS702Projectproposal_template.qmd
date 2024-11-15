@@ -1,6 +1,6 @@
 ---
 title: "Project Proposal"
-author: "ALL group member names here"
+author: "Afag, Peter, Elenor, Moba the Late"
 subtitle: "Due November 17 at 11:59pm"
 format: pdf
 ---
