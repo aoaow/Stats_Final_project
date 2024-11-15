@@ -12,18 +12,27 @@ library(tidyverse)
 ```
 
 # Dataset 1 (top choice)
-
+Police Killing Dataset
 **Data source:**
-
+https://github.com/fivethirtyeight/data/tree/master/police-killings
 **Brief description:**
+This dataset includes details on police killings in the United States, with variables such as location, race, gender, age, and circumstances of each incident.
+**Research question 1: Is there an association between the economic conditions of a county and the racial composition of individuals involved in police-related incidents?**
 
-**Research question 1:**
+- Outcome variable: race ethnicity (Nominal) – categorizes the racial/ethnic group of the deceased.
+- Independent Variables:
+    - __comp_income__: A measure of relative income (household income divided by county income) which indicates economic status.
+    - __pov__: Poverty level in the area, providing additional context on socio-economic conditions.
 
--   Outcome variable (include the name/description and type of variable):
 
-**Research question 2:**
+**Research question 2: Does the likelihood of an individual being armed in a police-related incident vary based on age and unemployment rate in the area?**
 
--   Outcome variable (include the name/description and type of variable):
+- Outcome variable: armed (Binary) – indicates whether the deceased was armed at the time of the incident.
+- Independent Variables:
+    - __age__: Age of the deceased (continuous variable).
+    - __urate__: Unemployment rate in the area, which could represent socio-economic stress.
+- Interaction Term: An interaction between age and urate to see if age and local unemployment influence the likelihood of individuals being armed.
+
 
 **Load the data and provide a `glimpse()`**:
 
