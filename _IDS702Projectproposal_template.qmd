@@ -63,33 +63,6 @@ Do different regions have an effect on the factors that correlates with a person
 
 ```
 
-# Dataset 2
-
-**Data source:**
-
-**Brief description:**
-
-**Research question 1:**
-
--   Outcome variable (include the name/description and type of variable):
-
-**Research question 2:**
-
--   Outcome variable (include the name/description and type of variable):
-
-**Load the data and provide a `glimpse()`**:
-
-```{r data-2, warning=FALSE}
-
-```
-
-**Exploratory Plots:**
-
-```{r plots-2}
-
-```
-
-
 # 
 
 # Team Charter
