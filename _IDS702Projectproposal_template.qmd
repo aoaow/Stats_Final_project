@@ -31,6 +31,32 @@ library(tidyverse)
 
 ```
 
+# Dataset 2 
+
+**Data source:** Pew Research East Asian Religion
+
+**Brief description:** The dataset surveys different east asian countries to see how many of them are religious and how the factors that influence them
+
+**Research question 1:**
+
+What variables are associated with being religious
+
+-   Outcome variable: IsReligious, binary variable, specifies if the respondent is religious
+
+**Research question 2:**
+
+Do different regions have an effect on the factors that correlates with a person's bent on religion?
+
+-   Outcome variable (include the name/description and type of variable):
+
+**Load the data and provide a `glimpse()`**:
+
+```{r data-1, warning=FALSE}
+
+```
+
+
+
 **Exploratory Plots:**
 
 ```{r plots-1}
@@ -63,42 +89,19 @@ library(tidyverse)
 
 ```
 
-# 
-
-# Dataset 3 (optional)
-
-**Data source:**
-
-**Brief description:**
-
-**Research question 1:**
-
--   Outcome variable (include the name/description and type of variable):
-
-**Research question 2:**
-
--   Outcome variable (include the name/description and type of variable):
-
-**Load the data and provide a `glimpse()`**:
-
-```{r data-3, warning=FALSE}
-
-```
-
-**Exploratory Plots:**
-
-```{r plots-3}
-
-```
 
 # 
 
 # Team Charter
 
 #### When will you meet as a team to work on the project components? Will these meetings be held in person or virtually?
+We will do both as needed, on an ad-hoc basis.
 
 #### What is your group policy on missing team meetings (e.g., how much advance notice should be provided)?
+One day in advance. The person missing the meeting will do more work.
 
 #### How will your team communicate (email, Slack, text messages)? What is your policy on appropriate response time (within a certain number of hours? Nights/weekends?)?
+We will communicate via whatsapp, responses should be in the same day.
+
 
 #### 
